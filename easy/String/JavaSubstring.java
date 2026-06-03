@@ -1,4 +1,4 @@
-package easy;
+package easy.String;
 
 import java.util.Scanner;
 

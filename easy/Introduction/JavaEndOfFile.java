@@ -1,4 +1,4 @@
-package easy;
+package easy.Introduction;
 
 import java.io.*;
 
