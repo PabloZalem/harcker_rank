@@ -18,5 +18,7 @@ public class PatternSyntaxChecker {
                 System.out.println("Invalid");
             }
 		}
+
+        in.close();
     }
 }
